@@ -9,9 +9,9 @@
     <TextView
         android:layout_width="289dp"
         android:layout_height="142dp"
-        android:text="this is lab 01!"
+        android:text="this is the updated version!"
         android:textColor="@color/colorAccent"
-        android:textSize="36sp"
+        android:textSize="60dp"
         android:typeface="monospace"
         app:fontFamily="cursive"
         app:layout_constraintBottom_toBottomOf="parent"
