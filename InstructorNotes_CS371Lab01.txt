@@ -1,0 +1,29 @@
+Nuxoll's notes (Fall 2019)
+
+Upon reviewing Ed Epp's intro labs, I found them unsatisfying for these
+major reasons (and some minor reasons I won't detail):
+1.  The labs require a trememendous amount of reading and study from
+    students.  Lab 1 has 75+ pages of content.
+2.  The scope of the labs is too much too fast.  Students should not
+    be doing event handling in lab 1, in my opinion.
+3.  The code is fairly redundant with CS203's SnapShop assignment
+4.  Too much of lab 2 and 3 content is about creating image filters.  It's
+    not about learning the CS301 material.
+5.  Much of the content is specific to the version of Android Studio
+    that Ed developed the labs for.  This is now thoroughly
+    out of date.  I removed many screenshots that are helpful but
+    unnecessary as they would have be updated on an annual basis.  We
+    don't have the bandwidth to do that an can't ask our adjunct
+    instructors to do it either.
+6.  The demo software (PhotoFun) runs very slowly on a tablet.
+
+I've created a new revised lab that follows many of the same steps but
+addresses all of the concerns above.
+
+At present, I've created a shared GitHub account for starter code for
+CS301 and CS371.  This is where I put the starter code for Lab 1.
+
+The account is:
+UID:  cs301up
+PWD:  notandroidtablet
+
