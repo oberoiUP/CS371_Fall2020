@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="289dp"
         android:layout_height="142dp"
-        android:text="Hello World!"
+        android:text="this is lab 01!"
         android:textColor="@color/colorAccent"
         android:textSize="36sp"
         android:typeface="monospace"
